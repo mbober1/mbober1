@@ -4,6 +4,10 @@ Hello! I am...
 ### :honeybee: R&D IoT Engineer  at A4Bee 
 ### :computer: Software Designer
 
+## Website
+https://mbober1.github.io/mbober1/
+
+## Biography
 From an early age, I am interested in widely understood electronics.
 I build and design my own electronic devices. 
 I am passionate about programming microcontrollers, writing drivers for peripherals, designing mobile robots. 
