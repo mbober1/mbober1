@@ -6,7 +6,7 @@ Hello! I am...
 ### :computer: Software Designer
 
 ## Website
-[My website](https://mbober1.github.io/mbober1/)
+[My website](https://marcinbober.pl)
 
 ## Biography
 From an early age, I am interested in widely understood electronics.
