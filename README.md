@@ -2,11 +2,10 @@ Hello! I am...
 # Marcin Bober
 ### :car: Engineer of Automatic Control and Robotics 
 ### :blue_book: Student at Wrocław University of Science and Technology
-### :honeybee: R&D IoT Engineer  at A4Bee 
-### :computer: Software Designer
+### :computer: Embedded Software Developer
 
-## Website
-[My website](https://marcinbober.pl)
+
+[Check out my website!](https://marcinbober.pl)
 
 ## Biography
 From an early age, I am interested in widely understood electronics.
