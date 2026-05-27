@@ -10,7 +10,7 @@
 - Real-time operating systems (RTOS) for mission-critical applications
 - IoT device development and connectivity protocols
 - Collaborating with hardware engineers to create seamless hardware-software integration
-- many more! ([check out my CV](https://marcinbober.pl/download/CV.pdf))
+- many more! ([check out my CV](https://marcinbober.pl/cv.pdf))
 
 🌟 I thrive on challenges and am constantly seeking innovative ways to optimize code and enhance system performance. My commitment to quality and attention to detail ensure that the software I deliver is reliable and robust.
 
